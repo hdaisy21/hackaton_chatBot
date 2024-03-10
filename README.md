@@ -18,4 +18,5 @@ This repo has the code for the frontend of the website allowing user to create a
 
 4. create a app.py file in environment: The app.py in the backend folder is the one I had in my flask enviornment.
    
-5. once you have app.py you use "python -m flask run" to run the backend as you are inside the flask eviorment.
+5. once you have app.py you use "python -m flask run" to run the backend as you are inside the flask eviorment.This will generate a link that can be hosted on your browser. Then you can proceed with opening the login.html to start testing login page, create page, and homepage.
+
